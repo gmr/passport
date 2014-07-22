@@ -9,7 +9,8 @@ gained from Consul's Service Discovery API and Key/Value database.
 
 Installation
 ------------
-Passport is available via pypi and can be installed with easy_install or pip:
+Passport is available via `pypi <https://pypi.python.org/pypi/passport>`_ and
+can be installed with easy_install or pip:
 
 .. code:: bash
 
