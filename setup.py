@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='passport',
-      version='0.1.0',
+      version='0.1.1',
       description="Light weight configuration management using Consul",
       long_description=open('README.rst').read(),
       maintainer="Gavin M. Roy",
