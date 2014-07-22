@@ -60,8 +60,8 @@ Todo
 .. |Version| image:: https://badge.fury.io/py/passport.svg?
    :target: http://badge.fury.io/py/passport
   
-.. |Downloads| image:: https://pypip.in/d/consulate/badge.svg?
+.. |Downloads| image:: https://pypip.in/d/passport/badge.svg?
    :target: https://pypi.python.org/pypi/passport
    
 .. |License| image:: https://pypip.in/license/passport/badge.svg?
-   :target: https://github.com/gmr/passport
+   :target: https://pypi.python.org/pypi/passport
