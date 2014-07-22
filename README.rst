@@ -1,5 +1,6 @@
 Passport
 ========
+
 *Light weight configuration management using Consul*
 
 Passport is a command line tool for rendering templates containing information
@@ -9,6 +10,7 @@ gained from Consul's Service Discovery API and Key/Value database.
 
 Installation
 ------------
+
 Passport is available via pypi_ and can be installed with easy_install or pip:
 
 .. code:: bash
@@ -17,6 +19,7 @@ Passport is available via pypi_ and can be installed with easy_install or pip:
 
 Usage
 -----
+
 .. code:: bash
 
     usage: passport.py [-h] [--host HOST] [--port PORT] [--datacenter DATACENTER]
@@ -53,6 +56,7 @@ Template rendering is done via the `Tornado Template <https://tornado.readthedoc
 
 Todo
 ----
+
 - Add a *managed* mode where Passport will check for new services on a regular interval and when changes occur, update the rendered template and notify a process using HUP
 - Add daemonization for managed mode
 - Add the ability to specify pairs of templates/destinations in a single invocation
