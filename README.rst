@@ -2,6 +2,9 @@ Passport
 ========
 *Light weight configuration management using Consul*
 
+:boom:**Important**:boom: This project is deprecated and no longer maintained. If you'd like to take it over, please contact me.
+
+
 Passport is a command line tool for rendering templates containing information
 gained from Consul's Service Discovery API and Key/Value database.
 
